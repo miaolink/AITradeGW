@@ -1,6 +1,6 @@
 # 通用 AI 交易网关
 
-[![Version](https://img.shields.io/badge/version-1.26.81-blue.svg)](https://github.com/miaolink/AITradeGW)
+[![Version](https://img.shields.io/badge/version-1.26.82-blue.svg)](https://github.com/miaolink/AITradeGW)
 [![Platform](https://img.shields.io/badge/platform-Windows%20x64-lightgrey.svg)](./USER-INSTALL.md)
 
 > **让 AI 直接连上 A 股行情与交易——不用券商权限，不用付费 QMT。**
